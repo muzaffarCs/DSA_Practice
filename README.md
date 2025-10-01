@@ -7,6 +7,7 @@ All codes are implemented in C++.
 - `String/` → String-related problems & solutions
 - `Array/` → Array - implementation (Abstraction)
 - `Array_Insertion_Deletion/` → Insertion and Deletion practices in an Array
+- `Task_1/` → Array related practice using menu base main file
 
 ## 🚀 Goals
 - Practice daily DSA problems
