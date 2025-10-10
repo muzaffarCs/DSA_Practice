@@ -8,6 +8,7 @@ All codes are implemented in C++.
 - `Array/` → Array - implementation (Abstraction)
 - `Array_Insertion_Deletion/` → Insertion and Deletion practices in an Array
 - `Task_1/` → Array related practice using menu base main file
+- `stack_static_array/` → implementation of stack using static array 
 
 ## 🚀 Goals
 - Practice daily DSA problems
