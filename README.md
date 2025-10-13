@@ -11,6 +11,7 @@ All codes are implemented in C++.
 - `stack_static_array/` → implementation of stack using static array 
 - `Stack/` → implementation of stack functions manually in a dynamic way 
 - `infix_to_postfix/` → An application of a stack to convert infix expression into postfix 
+- `Evaluate_postfix_Expression/` → An application of a stack to evalutate postfix expression 
 
 ## 🚀 Goals
 - Practice daily DSA problems
