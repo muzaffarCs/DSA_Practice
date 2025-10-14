@@ -12,6 +12,7 @@ All codes are implemented in C++.
 - `Stack/` → implementation of stack functions manually in a dynamic way 
 - `infix_to_postfix/` → An application of a stack to convert infix expression into postfix 
 - `Evaluate_postfix_Expression/` → An application of a stack to evalutate postfix expression 
+- `infix_to_prefix/` → An application of a stack to convert infix expression into prefix 
 
 ## 🚀 Goals
 - Practice daily DSA problems
