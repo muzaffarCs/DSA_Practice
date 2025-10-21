@@ -14,6 +14,7 @@ All codes are implemented in C++.
 - `Evaluate_postfix_Expression/` → An application of a stack to evalutate postfix expression 
 - `infix_to_prefix/` → An application of a stack to convert infix expression into prefix 
 - `Evaluate_prefix_Expression/` → An application of a stack to evalutate prefix expression 
+- `Queue_array_based/` → An implementation of a Queue using an array 
 
 ## 🚀 Goals
 - Practice daily DSA problems
