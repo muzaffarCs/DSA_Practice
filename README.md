@@ -15,6 +15,7 @@ All codes are implemented in C++.
 - `infix_to_prefix/` → An application of a stack to convert infix expression into prefix 
 - `Evaluate_prefix_Expression/` → An application of a stack to evalutate prefix expression 
 - `Queue_array_based/` → An implementation of a Queue using an array 
+- `Book_Management/` → A complete **Book Management System** that lets a user to add, update, delete, find, display, and export book records while storing all data in a binary file. 
 
 ## 🚀 Goals
 - Practice daily DSA problems
