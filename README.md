@@ -16,6 +16,7 @@ All codes are implemented in C++.
 - `Evaluate_prefix_Expression/` → An application of a stack to evalutate prefix expression 
 - `Queue_array_based/` → An implementation of a Queue using an array 
 - `Book_Management/` → A complete **Book Management System** that lets a user to add, update, delete, find, display, and export book records while storing all data in a binary file. 
+- `forward_list/` →  Implementation of a singly linked list (forward list) with iterator support 
 
 ## 🚀 Goals
 - Practice daily DSA problems
