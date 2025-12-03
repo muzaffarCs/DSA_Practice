@@ -18,6 +18,7 @@ All codes are implemented in C++.
 - `Book_Management/` → A complete **Book Management System** that lets a user to add, update, delete, find, display, and export book records while storing all data in a binary file. 
 - `forward_list/` →  Implementation of a singly linked list (forward list) with iterator support 
 - `circular_singly_linklist/` →  Implementation of a circular singly linked list with **Student Data Management System**  
+- `iterator/` →  Implementation of iterator in forward list which work similar to the STL iterator  
 
 ## 🚀 Goals
 - Practice daily DSA problems
